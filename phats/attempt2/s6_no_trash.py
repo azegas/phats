@@ -2,14 +2,14 @@ file = open("sourcefiles/practice.txt", "r")
 lines = file.readlines()
 file.close()
 
-siuksle = input("enter a trash to remove from the list: ")
+fruit = input("enter a trash to remove from the list: ")
 
 file = open("sourcefiles/practice.txt", "w")
 for line in lines:
-    if line.rstrip()!= siuksle:
+    if line.rstrip() != fruit:
         file.write(line)
 
-print(siuksle, "has been removed!")
+print(fruit, "has been removed!")
 
 file.close()
 
