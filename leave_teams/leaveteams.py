@@ -12,12 +12,13 @@ import time
 # https://time.is/
 # https://crontab.guru/
 
-time.sleep(300)
+time.sleep(5)
 
 
+# padejau per puse kairio ekrano
 def leaveteams():
-    pg.moveTo(318, 423, 4)
-    pg.click(318, 423)
+    pg.moveTo(457, 900, 4)      # 4 leidzia leciau pelytei vaziuoti
+    pg.click(457, 900)
     print("I just left teams")
 
 
