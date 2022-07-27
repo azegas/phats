@@ -1,0 +1,15 @@
+Harness number not found, test cannot start
+
+2976626_P-4
+3008237_P--
+3024768_P-A4
+2976503_P-D2
+3024778_P--
+3024727_P--
+2425973_0
+3005804_P-3
+3026827_P-1
+
+entered program number oes not exists in any connection table
+
+SCA3002701_P-A
