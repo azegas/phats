@@ -83,3 +83,5 @@ def delete_trash():
             file.write(line)
             # print(line, "liko po pravalymo")
     file.close()
+
+    os.rename('output/3043210_s5_find_replace.txt', 'output/3043210.txt')
