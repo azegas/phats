@@ -1,4 +1,4 @@
-# pythonLittleShits
+# pythonstuffs
 
 Labuka, dedu cia ivairius skriptelius padarytus su python.
 
