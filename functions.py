@@ -3,7 +3,6 @@ import pandas as pd
 import os
 from tkinter import *
 
-# username = int(input("ivesk skaiciuka"))
 
 def procedura():
     global username
