@@ -1,6 +1,3 @@
 # pythonstuffs
 
-Labuka, dedu cia ivairius skriptelius padarytus su python.
-
-Laikysiu vienoje vietoje, kad lengviau galeciau ateityje rasti viena
-ar kita, kai reikes inspiration.
+Wise exports an excel document, this excel document gets cleaned up and properly formatted so it can then be exported to a .txt file that can later be used with PHATS software.
