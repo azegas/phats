@@ -133,12 +133,12 @@ backspace.pack(side = RIGHT)
 
 entry = Entry()
 entry.focus()
-entry.config(font=('Ink Free', 50)) #change font
-entry.config(bg='#111111') #background
-entry.config(fg='#00FF00') #foreground
-entry.config(width=10) #width displayed in characters
+entry.config(font=('Ink Free', 50))  # change font
+entry.config(bg='#111111')  # background
+entry.config(fg='#00FF00')  # foreground
+entry.config(width=10)  # width displayed in characters
 # entry.insert(0,'Spongebob') #set default text
-#entry.config(state=DISABLED) #ACTIVE/DISABLED
+# entry.config(state=DISABLED) #ACTIVE/DISABLED
 # entry.config(show='*') #replace characters shown with x character
 entry.pack()
 
