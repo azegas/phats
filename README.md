@@ -1,5 +1,7 @@
 # Phats
 
+![phats](https://user-images.githubusercontent.com/78803192/187493022-f933e903-e08a-49f2-b169-b6c182cee2b2.png)
+
 Wise exports an excel document, this excel document gets cleaned up and properly formatted so it can then be exported to a .txt file that can later be used with PHATS software.
 
 .xlsx to .txt
