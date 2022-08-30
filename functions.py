@@ -1,7 +1,8 @@
-from openpyxl import Workbook, load_workbook
+from openpyxl import load_workbook
 import pandas as pd
 import os
 from tkinter import *
+import pdb; pdb.set_trace()
 
 
 def procedura():
